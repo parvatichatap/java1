@@ -4,45 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2198745d-0cc1-4015-bf24-c991aa783fca" name="Changes" comment="oop">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java9May.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/DataTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/JVM Architecture" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/MathsOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/OperatorsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/Variables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/features" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/internalWorking" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/jvmJDKJRE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/operatores" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controlflowstatement/BreakDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controlflowstatement/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controlflowstatement/DivisibleDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controlflowstatement/DoWhileDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controlflowstatement/ForEachLoopDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controlflowstatement/ForLoopDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controlflowstatement/ForLoopReverseNo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controlflowstatement/ForLoopSumDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controlflowstatement/ForLoopTableDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controlflowstatement/IfStatementDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controlflowstatement/LargestNo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controlflowstatement/NestedForDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controlflowstatement/StarPattern1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controlflowstatement/StarPattern2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controlflowstatement/SwapNo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controlflowstatement/SwitchDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controlflowstatement/WeekDays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controlflowstatement/WhileLoopDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controlflowstatement/control" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/OddEvenNo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/oop" afterDir="false" />
-    </list>
+    <list default="true" id="2198745d-0cc1-4015-bf24-c991aa783fca" name="Changes" comment="oop" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,12 +30,33 @@
     <option name="showLibraryContents" value="true" />
     <option name="showScratchesAndConsoles" value="false" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "vcs.Git"
   }
-}</component>
+}]]></component>
+  <component name="RunManager">
+    <configuration name="StudentImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="constructor.StudentImpl" />
+      <module name="java9May" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="constructor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StudentImpl" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
