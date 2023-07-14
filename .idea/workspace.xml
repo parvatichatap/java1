@@ -4,42 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2198745d-0cc1-4015-bf24-c991aa783fca" name="Changes" comment="oop">
-      <change afterPath="$PROJECT_DIR$/src/abstraction/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstraction/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstraction/abstraction" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/accessmodifiers/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/accessmodifiers/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/accessmodifiers/accessmodifiers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/accessmodifiers/collage/Branch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/accessmodifiers/collage/Collage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/association/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/association/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constructor/CounterDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constructor/Emp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/encapsulation/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaceDemo/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaceDemo/interface" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mypackage/p1/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mypackage/p1/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mypackage/p1/p4/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mypackage/p2/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mypackage/p2/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mypackage/p3/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mypackage/package" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polymorphism/Addition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polymorphism/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polymorphism/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polymorphism/poly" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/staticKeyword/StaticBlockDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/staticKeyword/static" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thiskeyword/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thiskeyword/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thiskeyword/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thiskeyword/P.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thiskeyword/TestA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thiskeyword/this" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="2198745d-0cc1-4015-bf24-c991aa783fca" name="Changes" comment="interfaceDemo">
+      <change afterPath="$PROJECT_DIR$/src/thiskeyword/Vehicle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -187,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687340488816</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="interfaceDemo">
+      <created>1689335638836</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1689335638836</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -205,6 +178,7 @@
     <MESSAGE value="break" />
     <MESSAGE value="inheritance" />
     <MESSAGE value="oop" />
-    <option name="LAST_COMMIT_MESSAGE" value="oop" />
+    <MESSAGE value="interfaceDemo" />
+    <option name="LAST_COMMIT_MESSAGE" value="interfaceDemo" />
   </component>
 </project>
