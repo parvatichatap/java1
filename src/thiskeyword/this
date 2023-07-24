@@ -3,7 +3,7 @@
 
 Usage:
 1. to refer current class instance variable
-2. to invoke current class method
+2. to invoke(call) current class method
 3. to invoke current class constructor
 4. can be passed as an argument in the method call
 5. can be passed as an argument in the constructor call
